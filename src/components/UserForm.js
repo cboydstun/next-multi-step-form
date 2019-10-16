@@ -13,7 +13,7 @@ export class UserForm extends  Component {
 
     }
 
-    //Proceed to next step
+    //Proceed to next steps
 
     nextStep = () => {
         const { step } = this.state;
