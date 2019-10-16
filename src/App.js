@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { useEffect, useState } from 'react';
 import './App.css';
 import { UserForm } from './components/UserForm';
